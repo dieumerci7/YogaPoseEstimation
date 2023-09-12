@@ -9,6 +9,7 @@ Yoga has gained significant popularity in recent years, especially during the CO
 
 # Dataset
 The dataset for this competition includes a `train.csv` file containing image IDs and corresponding class labels, as well as an `images` folder containing the training images. There are six classes based on the yoga pose. Participants are required to predict the correct class labels for the test images and submit their predictions in a CSV file (`submission.csv`).
+The data can be downloaded from https://www.kaggle.com/competitions/ukraine-ml-bootcamp-2023/data.
 
 # Data Preprocessing
 The provided notebook pre-processes the data using the following steps:
